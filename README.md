@@ -28,6 +28,7 @@ To install operating system.
 6.Accept License Terms:Read and accept the terms and conditions of the operating system's license agreement.
 
 7.Choose Installation Type:Select the installation type. Common options include:"Custom" or "Advanced" for more control over partitions.
+
 ![os25](https://github.com/Iyyanar22009120/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118680259/ea371505-bc86-4ef1-a457-936c22e38e22)
 
 8.Create or Select a Partition:For Windows, you can create, format, and select partitions during this step.
